@@ -14,7 +14,7 @@ We first collect a number of potentially informal English sentences and then tra
 ### Multi-task Transfer
 We augment a total of 1.8M sentence pairs by multi-task transfer strategy.
 
-We use the public GEC data (Lang-8 and NUCLE) as our augmented data. 
+We use the public GEC data ([Lang-8](http://lang-8.com) and [NUCLE](https://www.comp.nus.edu.sg/~nlp/corpora.html)) as our augmented data. The datasets can be requested for research purposes.
 
 ## Contact
 Feel free to contact me (`zhangyi16@pku.edu.cn`) if you have any questions:)
